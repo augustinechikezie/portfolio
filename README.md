@@ -1,3 +1,6 @@
+# Augustine Chikezie: Web & App Developer
+My professional portfolio website: https://chikezieaugustine.netlify.app
+
 ## Nkata: social and payments app for Africans
 **Live demo:** https://nkata-app.netlify.app  
 **Status:** Working beta. Payments run on Paystack and VTpass test mode.
